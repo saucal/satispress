@@ -296,6 +296,8 @@ class PackageBuilder {
 			}
 		}
 
+		$releases = apply_filters( 'satispress_package_releases', $releases, $this->package );
+		
 		foreach ( $releases as $release ) {
 			$this->add_release( $release->get_version(), $release->get_source_url() );
 		}
