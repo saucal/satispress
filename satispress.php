@@ -10,7 +10,7 @@
  * Plugin Name: SatisPress
  * Plugin URI: https://github.com/cedaro/satispress
  * Description: Generate a Composer repository from installed WordPress plugins and themes.
- * Version: 1.0.4
+ * Version: 100.1.0.4
  * Author: Cedaro
  * Author URI: https://www.cedaro.com/
  * License: GPL-2.0-or-later
@@ -19,7 +19,8 @@
  * Domain Path: /languages
  * Requires PHP: 7.0
  * Network: true
- * GitHub Plugin URI: cedaro/satispress
+ * GitHub Plugin URI: saucal/satispress
+ * Primary Branch: saucal
  * Release Asset: true
  */
 
